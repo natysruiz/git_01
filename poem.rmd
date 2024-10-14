@@ -16,6 +16,17 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+HE shouts amain, he shouts again,
+
+(Her brother, fierce, as bluff King Hal),
+
+"I tell you flat, I shall do that!"
+
+She softly whispers " 'May' for 'shall'!"
+
+He wistful sighed one eventide
+ 
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
